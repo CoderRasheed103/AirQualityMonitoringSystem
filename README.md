@@ -23,5 +23,5 @@ This is a Air quality monitoring system with Blynk cloud server to notify and di
 
 
 
-<p>The Web DashBoard Image</p>
+<p>The Web DashBoard Image.</p>
 <img src="https://user-images.githubusercontent.com/107548404/231838594-08faa026-4568-40fb-aac9-a712db7a82ed.png"></img>
